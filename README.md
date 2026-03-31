@@ -16,7 +16,7 @@ Quick learner. Detail-oriented. Focused on practical solutions and continuous im
 
 ## 📊 GitHub Metrics
 
-![Metrics](https://metrics.lecoq.io/KingWahley?template=classic
+![Metrics](https://metrics.lecoq.io/KingWahley)?template=classic
 &base.indepth=true
 &base.hireable=true
 &config.timezone=Africa/Lagos
