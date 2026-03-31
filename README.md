@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 About Me<br><br>I’m a frontend-focused web developer with a strong foundation in modern JavaScript ecosystems. I specialize in building responsive, production-ready applications that balance performance, usability, and maintainability.<br><br>Beyond development, I also bring design awareness into my workflow—ensuring that what I build not only works well but looks right and feels intuitive.<br><br>I adapt quickly to new tools, frameworks, and workflows, allowing me to stay effective in fast-moving environments.<br>Quick learner, always adapting<br>Strong attention to detail<br>Focused on delivering practical solutions<br>Committed to continuous improvement
+# 👋 About Me:
+I’m a frontend-focused web developer with a strong foundation in modern JavaScript ecosystems. I specialize in building responsive, production-ready applications that balance performance, usability, and maintainability.<br><br>Beyond development, I also bring design awareness into my workflow—ensuring that what I build not only works well but looks right and feels intuitive.<br><br>I adapt quickly to new tools, frameworks, and workflows, allowing me to stay effective in fast-moving environments.<br>Quick learner, always adapting<br>Strong attention to detail<br>Focused on delivering practical solutions<br>Committed to continuous improvement
 
 
 ## 🌐 Socials:
@@ -12,10 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=KingWahley&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KingWahley&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=KingWahley&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
