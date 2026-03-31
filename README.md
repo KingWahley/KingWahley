@@ -12,6 +12,20 @@ I’m a frontend-focused web developer with a strong foundation in modern JavaSc
 ![](https://nirzak-streak-stats.vercel.app/?user=KingWahley&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KingWahley&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Metrics](https://metrics.lecoq.io/KingWahley?template=classic
+&base.indepth=true
+&base.hireable=true
+&config.timezone=Africa/Lagos
+&plugin.languages=true
+&plugin.languages.limit=8
+&plugin.languages.sections=most-used
+&plugin.languages.colors=github
+&plugin.languages.indepth=true
+&plugin.isocalendar=true
+&plugin.stars=true
+&plugin.followup=true
+&plugin.traffic=true
+)
 
 ![](https://github-profile-trophy.vercel.app/?username=KingWahley&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
