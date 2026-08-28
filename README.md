@@ -1,5 +1,5 @@
 # 👋 About Me:
-I’m a frontend-focused web developer with a strong foundation in modern JavaScript ecosystems. I specialize in building responsive, production-ready applications that balance performance, usability, and maintainability.<br><br>Beyond development, I also bring design awareness into my workflow—ensuring that what I build not only works well but looks right and feels intuitive.<br><br>I adapt quickly to new tools, frameworks, and workflows, allowing me to stay effective in fast-moving environments.<br>Quick learner, always adapting<br>Strong attention to detail<br>Focused on delivering practical solutions<br>Committed to continuous improvement
+I'm Peter, a developer and designer focused on creating clean, modern, and engaging digital experiences. I help businesses transform their ideas into responsive websites and applications through thoughtful design and powerful technology. When I'm not working, I stay curious through tech blogs, play football and unwind with video games.
 
 
 ## 🌐 Socials:
